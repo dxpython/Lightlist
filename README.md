@@ -13,7 +13,8 @@
 - 📊 简单任务统计（总数、已完成）
 
 ## 🛠 技术栈
-
+![](./images/jiayou.png)
+没有人能够熄灭满天的星光！
 - HarmonyOS NEXT
 - ArkTS (eTS)
 - DevEco Studio
