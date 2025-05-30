@@ -14,7 +14,7 @@
 
 ## 🛠 技术栈
 
-- HarmonyOS 3+
+- HarmonyOS NEXT
 - ArkTS (eTS)
 - DevEco Studio
 - `@ohos.data.preferences` 本地存储模块
