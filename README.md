@@ -14,7 +14,6 @@
 
 ## 🛠 技术栈
 ![](./images/jiayou.png)
-没有人能够熄灭满天的星光！
 - HarmonyOS NEXT
 - ArkTS (eTS)
 - DevEco Studio
@@ -67,3 +66,4 @@ interface TodoItem {
 ![](./images/1.png)
 #### 添加事件页面
 ![](./images/2.png)
+
